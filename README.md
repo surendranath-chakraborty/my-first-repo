@@ -17,12 +17,6 @@ Welcome to my first GitHub repository! This is an example README file with some 
 
 This repository is a placeholder for my first project. It's a blank canvas where I'll start my coding journey.
 
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
 ## Installation
 
 To clone this repository, use the following command:
